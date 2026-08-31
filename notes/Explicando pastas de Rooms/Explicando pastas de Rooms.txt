@@ -1,0 +1,12 @@
+Rooms (/rooms)
+Contém os cenários, telas e fases do jogo.
+
+Overworld_Rooms: Salas onde o jogador se movimenta de forma top-down, como escritórios, corredores e salas de reuniões.
+
+System_Rooms: Telas de sistema e menus, incluindo menu principal, tela de pause, configurações e créditos.
+
+rm_init: Sala inicial e invisível usada exclusivamente para inicializar scripts, variáveis globais e controladores antes de carregar o jogo.
+
+rm_office_floor_1: Primeira sala do mundo de exploração.
+
+Não deve ter as pastas de Overwold_Rooms nem a de System_Rooms, mas elas deverão ser criadas aqui

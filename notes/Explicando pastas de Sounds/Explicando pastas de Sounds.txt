@@ -1,0 +1,6 @@
+Sounds (/sounds)
+Arquivos de áudio e música do projeto.
+
+BGM: Trilhas sonoras de fundo, incluindo músicas para o overworld, temas do computador e loops de ambiente.
+
+SFX: Efeitos sonoros pontuais, como teclas do teclado, cliques de mouse, passos do jogador, erros de sistema e notificações.

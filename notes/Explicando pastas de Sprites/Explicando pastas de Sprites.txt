@@ -1,0 +1,12 @@
+Sprites (/sprites)
+Recursos visuais e artes em pixel ou vetor.
+
+Computer_UI/Desktop: Wallpapers, barra de tarefas, ícones de programas e cursores.
+
+Computer_UI/Documents: Sprites de PDFs, arquivos de texto, e-mails, fotos e janelas do sistema.
+
+Overwolrd/Enviroment: Objetos de cenário, como mesas, computadores, cadeiras, plantas e paredes.
+
+Overwolrd/NPCs: Sprites de animação dos personagens não-jogáveis do escritório.
+
+Overwolrd/Player: Sprites de movimentação e animação do protagonista.

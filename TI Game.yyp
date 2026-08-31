@@ -43,6 +43,12 @@
   },
   "name":"TI Game",
   "resources":[
+    {"id":{"name":"Explicando pasta de Objects","path":"notes/Explicando pasta de Objects/Explicando pasta de Objects.yy",},},
+    {"id":{"name":"Explicando pastas de Rooms","path":"notes/Explicando pastas de Rooms/Explicando pastas de Rooms.yy",},},
+    {"id":{"name":"Explicando pastas de Scripts","path":"notes/Explicando pastas de Scripts/Explicando pastas de Scripts.yy",},},
+    {"id":{"name":"Explicando pastas de Sounds","path":"notes/Explicando pastas de Sounds/Explicando pastas de Sounds.yy",},},
+    {"id":{"name":"Explicando pastas de Sprites","path":"notes/Explicando pastas de Sprites/Explicando pastas de Sprites.yy",},},
+    {"id":{"name":"Explicando pastas de Tile Sets","path":"notes/Explicando pastas de Tile Sets/Explicando pastas de Tile Sets.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"rm_office_floor_1","path":"rooms/rm_office_floor_1/rm_office_floor_1.yy",},},
   ],

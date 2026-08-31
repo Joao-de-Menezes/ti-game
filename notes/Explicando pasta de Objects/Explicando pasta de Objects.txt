@@ -1,0 +1,10 @@
+Objects (/objects)
+Contém todos os objetos, lógicas de controle, entidades e elementos interativos.
+
+Computer_UI: Objetos responsáveis pelo sistema do computador do protagonista, incluindo janelas, botões, terminais, ícones, leitores de documentos e arquivos interativos.
+
+Overwolrd: Objetos do mundo físico explorável, como o jogador, NPCs, móveis, portas, gatilhos de transição de sala e elementos do cenário.
+
+System: Controladores globais da aplicação, cobrindo o gerenciador de áudio, salvamento e carregamento, troca de salas, gerenciador de estado do jogo e persistência de dados.
+
+Você provavelmente não terá as pastas Computer_UI, Overwolrd e System, porque estão vazias e não foram para o repositório. Ma elas devem estar criadas dentro dessa pasta aqui.

@@ -1,0 +1,4 @@
+Tile Sets (/tilesets)
+Conjuntos de tiles para construção dos cenários via Tilemap.
+
+ts_overworld_office: Tileset principal com pisos, paredes, divisórias e estrutura arquitetônica do escritório.

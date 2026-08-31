@@ -1,0 +1,6 @@
+Scripts (/scripts)
+Contém funções reutilizáveis, construtores e lógicas auxiliares.
+
+Core: Lógicas centrais do jogo, abrangendo estruturas de dados, máquinas de estados globais, manipulação de arquivos de save e algoritmos do sistema de TI.
+
+UI_Helpers: Funções auxiliares para renderização de interface gráfica, cálculo de clique de mouse, janelas flutuantes e formatação de texto no terminal.
